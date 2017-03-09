@@ -4,7 +4,7 @@
 
 ## 下面是不带导航栏和带导航栏的效果图：
 
-![不带导航栏](http://oixwuce1i.bkt.clouddn.com/%E5%8A%A8%E7%94%BB%E6%8C%89%E9%92%AE%E8%BD%AC%E5%9C%BA%E5%8A%A8%E7%94%BB%E5%88%B7%E6%96%B0%E9%A1%B5%E9%9D%A2%28%E4%B8%8D%E5%B8%A6%E5%AF%BC%E8%88%AA%29.gif)![带导航栏](http://oixwuce1i.bkt.clouddn.com/%E5%8A%A8%E7%94%BB%E6%8C%89%E9%92%AE%E8%BD%AC%E5%9C%BA%E5%8A%A8%E7%94%BB%E5%88%B7%E6%96%B0%E9%A1%B5%E9%9D%A2%28%E5%B8%A6%E5%AF%BC%E8%88%AA%292.gif)
+![不带导航栏](http://oixwuce1i.bkt.clouddn.com/%E5%8A%A8%E7%94%BB%E6%8C%89%E9%92%AE%E8%BD%AC%E5%9C%BA%E5%8A%A8%E7%94%BB%E5%88%B7%E6%96%B0%E9%A1%B5%E9%9D%A2%28%E4%B8%8D%E5%B8%A6%E5%AF%BC%E8%88%AA%29.gif)   ![带导航栏](http://oixwuce1i.bkt.clouddn.com/%E5%8A%A8%E7%94%BB%E6%8C%89%E9%92%AE%E8%BD%AC%E5%9C%BA%E5%8A%A8%E7%94%BB%E5%88%B7%E6%96%B0%E9%A1%B5%E9%9D%A2%28%E5%B8%A6%E5%AF%BC%E8%88%AA%292.gif)
 
 
 ## 相关介绍
